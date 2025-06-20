@@ -1,4 +1,4 @@
-# Telecom Customer Churn Prediction
+# Telecom Customer Churn Prediction - [Notebook](https://github.com/jaysic470/Telecom-Customer-Churn/blob/main/Telecom-Customer-Churn.ipynb)
 
 This project aims to predict customer churn for a telecommunications company using machine learning. Early identification of customers likely to leave enables proactive retention strategies, saving the business money and improving long-term customer satisfaction.
 
